@@ -8,3 +8,4 @@ qiskit-aer
 scikit-learn
 qiskit-machine-learning
 scikit-image
+cirq
